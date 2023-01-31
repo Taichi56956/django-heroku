@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-jyub9yij4euvc7n#(1cje&-wkem94d2bue!43^t$sjmal_ru=y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['speee-fib.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','speee-fib.herokuapp.com']
 
 
 # Application definition
